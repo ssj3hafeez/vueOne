@@ -1,6 +1,7 @@
 <template>
-    <div class = "footer-content"><h4> {{footer}} </h4></div>
+    <div class = "footer-content"><h4> Here lies the bottom of the footer </h4></div>
   
+
 </template>
 
 <script>

@@ -1,6 +1,9 @@
 <template>
-    <div class = "compB-content"><h2> {{content}} </h2></div>
+    <div class = "compB-content"><h2> Component B </h2>
   
+   <a href="https://vuejs.org/v2/guide/#Getting-Started" > Vue to Kill </a>
+
+</div>
 </template>
 
 <script>

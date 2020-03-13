@@ -1,5 +1,5 @@
 <template>
-    <div class = "compC-content"><h2> {{content}} </h2></div>
+    <div class = "compC-content"><h2> Component C </h2></div>
   
 </template>
 
@@ -17,7 +17,7 @@ export default {
 </script>
 
 <style scoped>
-.compB-content{
+.compC-content{
     text-align: center;
   border-bottom: 1px solid black; 
 }

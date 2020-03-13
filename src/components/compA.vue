@@ -1,6 +1,6 @@
 <template>
-    <div class = "compA-content"><h2> {{content}} </h2></div>
-  
+    <div class = "compA-content"><h2>Component A</h2></div>
+
 </template>
 
 <script>
